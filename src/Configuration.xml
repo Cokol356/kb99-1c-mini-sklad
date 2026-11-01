@@ -265,6 +265,7 @@
 			<Document>Поступление</Document>
 			<Document>Реализация</Document>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
+			<AccumulationRegister>ПродажиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
